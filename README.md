@@ -8,5 +8,5 @@ It is a responsive and mobile friendly application that is written using HTML5, 
 
 <img src ="projectdemo.png" width=750>
 
-### Source of the project:
+### Project Source
 [Click here](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) to access the project source.
