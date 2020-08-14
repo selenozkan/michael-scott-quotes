@@ -4,7 +4,7 @@ Generating random quotes of Michael Scott from the tv show The Office, with an o
 It is a responsive and mobile friendly application that is written using HTML5, CSS3 and JavaScript.
 
 # Live Project
-[Click here]() to check out the live project.
+[Click here](https://selenozkan.github.io/michael-scott-quotes) to check out the live project.
 
 <img src ="projectdemo.png" width=750>
 
