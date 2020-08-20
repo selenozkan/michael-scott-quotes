@@ -1,7 +1,7 @@
 # Michael Scott Quotes
 
 Generating random quotes of Michael Scott from the tv show The Office, with an option to tweet. 
-It is a responsive and mobile friendly application that is written using HTML5, CSS3 and JavaScript.
+Written using HTML5, CSS3 and JavaScript.
 
 # Live Project
 [Click here](https://selenozkan.github.io/michael-scott-quotes) to check out the live project.
